@@ -1,0 +1,1087 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue. VVherein is plainly laide open, the tyrannicall dealing of l. bishopps against Gods children vvith certaine points of doctrine, vvherein they approue themselues (according to D. Bridges his judgement) to be truely the bishops of the Diuell.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1589</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20393</idno>
+            <idno type="STC">STC 6805</idno>
+            <idno type="STC">ESTC S109672</idno>
+            <idno type="EEBO-CITATION">99845319</idno>
+            <idno type="PROQUEST">99845319</idno>
+            <idno type="VID">10211</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20393)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10211)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 420:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue. VVherein is plainly laide open, the tyrannicall dealing of l. bishopps against Gods children vvith certaine points of doctrine, vvherein they approue themselues (according to D. Bridges his judgement) to be truely the bishops of the Diuell.</title>
+                  <author>Throckmorton, Job, 1545-1601, attributed name.</author>
+                  <author>Penry, John, 1559-1593, attributed name.</author>
+                  <author>Marprelate, Martin, pseud, attributed name.</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Waldegrave,</publisher>
+                  <pubPlace>[La Rochelle :</pubPlace>
+                  <date>1589]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed in a later edition to Martin Marprelate, who has been identified with John Penry and, more probably, with Job Throckmorton. Not, however, one of the primary series of Marprelate tracts.</note>
+                  <note>Imprint from STC.</note>
+                  <note>Signatures: [A]⁴ B-D⁴.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bridges, John, d. 1618.</term>
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+               <term>Church of England --  Bishops --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:10211:1"/>
+            <pb facs="tcp:10211:1"/>
+            <p>A DIALOGVE. VVHERIN IS PLAINLY LAIDE OPEN, the tyrannicall dealing of L. Bishopps a<g ref="char:EOLhyphen"/>gainſt Gods children: vvith certaine points of doctrine, vvherein they approoue themſelues (according to <hi>D. Bridges</hi> his judgement) to be truely the Bishops of the <hi>Diuell.</hi>
+            </p>
+            <q>
+               <bibl>MA<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>CH. 2.7, 8, 9.</bibl>
+               <p>The Priests lippes ſhoulde preſerue knowledge, and they ſhould ſeeke the law at his mouth: for he is the meſſen<g ref="char:EOLhyphen"/>ger of the Lorde of hostes. But ye are gone out of the way: ye haue cauſed many to fall by the lawe, ye haue broken the couenaunt of Leui. Therefore haue I alſo made you to be despiſed, and vile before all the people, becauſe ye keepe not my wayes, but haue bene partiall in the lawe.</p>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:10211:2" rendition="simple:additions"/>
+            <pb facs="tcp:10211:2"/>
+            <head>A Dialogue vvherein is plainely laid o<g ref="char:EOLhyphen"/>pen the tyrannicall dealing of Lord Bb. againſt Gods children.</head>
+            <stage>
+               <p>The ſpeakers are theſe,
+<list>
+                     <item>Puritane.</item>
+                     <item>Papist.</item>
+                     <item>Jacke of both ſides.</item>
+                     <item>Idoll minister.</item>
+                  </list>
+               </p>
+            </stage>
+            <sp>
+               <speaker>Puritane.</speaker>
+               <p>
+                  <seg rend="decorInit">Y</seg>Ou are well ouertaken ſir, doe you trauell far this way I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Towards London ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>I ſhall willingly beare you companie if it pleaſe you?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>With all my hearr, I ſhall be very glad of yours.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>From whence came you this way?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>I come out of France.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Out of what part of France came you I pray you? I came from <hi>Rochell</hi> my ſelfe, which is a part of France.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>It is ſo, but I came not neere that place.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan</speaker>
+               <p>Out of what parte of Fraunce came you then?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>I came from <hi>Orleans.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritan</speaker>
+               <p>I pray you what newes from thence, is there any likelyhoode of peace there?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Yes ſurely, there is ſome hope of peace, for where the Kings powers come, they doe commonly yeelde preſently.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan</speaker>
+               <p>It is a good hearing.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>What is he that comes after vs ſo faſt?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan</speaker>
+               <p>He ſeemes to be ſome preacher or dumb miniſter, it may be he goes our way, if he doe I hope we ſhall haue his company whereby wee may paſſe a<g ref="char:EOLhyphen"/>way
+<pb facs="tcp:10211:3"/>way the time in ſome good conference, &amp; alſo heare what newes there is at home here in England.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>I am content Sir, for I ſhal be glad to heare ſome good newes, me thinks I haue bin very long ab<g ref="char:EOLhyphen"/>ſent from hence.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan</speaker>
+               <p>Very wel, we will goe the ſoftlier that he may overtake vs: but by the way, I pray you, if you came from <hi>Orleans,</hi> there they haue the maſſe, for they are of the league: &amp; then I ſuppoſe you haue bin par<g ref="char:EOLhyphen"/>taker of their Idolatrie?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Noe I aſſure you, I deteſt al Idolatrie, euen from my hart.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan</speaker>
+               <p>If you doe ſo, I am very glad of it, but I pray you let me heare if you can giue me ſome profe out of the word of God, for the confirmation of this your proteſtation againſt Idolatrie?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>I am wel content to giue you a taſte there<g ref="char:EOLhyphen"/>of, whereby it ſhal appeare that I am far from it: For ſo deerly as I render the ſaluation of mine own ſoule, ſo careful am I to ſhun and fly from all Idolatrie. For it is written Deut. 6.13. <hi>Thou ſhalt worſhip the Lorde thy God, and him onely ſhalt thou ſerue:</hi> And the A<g ref="char:EOLhyphen"/>poſtle Paule to the Corinth. 1. Epiſt. cap. 10. verſe 14. commaundeth vs to <hi>Flye from Idolatrie,</hi> for Idolatrie is ſinne, and <hi>the wages of ſinne is death, &amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritan</speaker>
+               <p>It is wel applied, &amp; ſomwhat to the pur<g ref="char:EOLhyphen"/>poſe, I am very glad if it be done in ſingleneſſe of hart: For me thinks you could not poſſibly be in that place but you muſt be forced to be preſent at their Idola<g ref="char:EOLhyphen"/>trous Maſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>I was neuer preſent at it in my life, I thanke God: but the Papiſts ſticke not to ſay that our ſervice booke in engliſh is (a greate parte of it) but a meere tranſlation out of the maſſe booke.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan</speaker>
+               <p>Indeede it is true, that ſome parte of our
+<pb facs="tcp:10211:3"/>booke of common prayer (as they ſay) is a meere tran<g ref="char:EOLhyphen"/>ſlation out of the maſſe booke, but yet there is no ſuch blaſphemie and Idolatrie tollerated in it, as is dyalie in the maſſe: although it greatly derogate from the worde, and is full of greate and greuous corruptions: But I pray you howe long were you in <hi>Orleans</hi> Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>I was there about a fortnight.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan</speaker>
+               <p>Noe longer?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Noe Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Here comes the miniſter nowe, wee will heare what newes he can tel vs, he ſemes to be but an Idole ſhepheard: we ſhal haue ſome good conference with him I hope, to paſſe away the time?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>You are well overraken gentlemen, which way trauel you, I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Towards London, and if it pleaſe God.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>I ſhall be gladd of your company and if it pleaſe you?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan</speaker>
+               <p>We alſo ſhall be glad of yours Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>I pray you M. Vicker or parſon, (for ſo you ſeeme to be) what good newes is there here at home, in England, for we haue bin both of vs in Fraunce, &amp; we would gladly here ſome good newes?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Indede I am a poore Vicker: truly we haue no greate good newes here Sir: for our Church is ſo ſore peſtered with ſects &amp; ſciſmes, that the reuerende fathers, (and eſpecially my Lords grace of Cant.) are ſo ſore troubled with them, that they haue no leaſure to recreate them ſelues for thoſe fellowes, they are ſo bolde and mallepert, that they preferre petitions to her maieſtie, the Lords of the counſell, yea &amp; in print to the high court of parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Why ſir, what be they that do this, what doe you cal them, are they papiſts?</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>No they are worſe then papiſts, for they
+<pb facs="tcp:10211:4"/>are fantaſticall <hi>puritans</hi> and <hi>Browniſts,</hi> and I can not tel what.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>What be the points they holde, that are ſo ſciſmatical, and erronious?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Forſooth they woulde haue no Lorde Bb. but every miniſter to be of equal authoritie one with an other, and ſo make a confuſion in the whole ſtate, for they haue ſet downe a newe platforme of (Diſci<g ref="char:EOLhyphen"/>pline ſorſoth, as they cal it) they cannot tel what them ſelues.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>I will tel you my opinion, of Lord Bb. it is but an humaine conſtitution, and not warrantable by the worde, but vtterly forbidden:</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>O I perceue you are one of theſe fantaſti<g ref="char:EOLhyphen"/>cal <hi>puritanes</hi> or <hi>Brownists:</hi> I pray you out of what place of Fraunce cam you?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>I came from <hi>Rochel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>I thought from <hi>Rochel, Geneua</hi> or <hi>Scotland,</hi> you ſeeme to be a birde of one of thoſe neſts.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Sir whatſoeuer I am, I doe not dout but to be able to prooue by the word what I haue ſaide, &amp; namely, the vnlawfulneſſe of Lord Bb.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Sir that point hath bin handeled by your betters, and manifeſtly confuted by my Lords grace, in his writings againſt <hi>Cartwright.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>In deed he that will be blinde, cannot ſee it, but he that looks in both their works, with a ſingle eie cannot but confeſſe M. <hi>Cartwright</hi> to haue confu<g ref="char:EOLhyphen"/>ted him by vnanſwerable evidences: or els why would he not haue anſwered M. <hi>Cartwrights</hi> workes, nowe a dozen yeares extant and more.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>As you of the fantaſticall crue thinke, but he hath done it, and that ſo ſufficiently alreadie, that there needs noe more anſweres, and againe his grace is nowe otherwiſe troubled with matters of ſtate, that
+<pb facs="tcp:10211:4"/>he cannot intend it, or if he coulde, yet it is not for him ſo to abaſe himſelfe, in regarde of his high calling which he is nowe placed in.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>As though the cauſe of God were to be neglected in reſpect of his high place, if he were law<g ref="char:EOLhyphen"/>fully called thereunto, as he doth very vnlawefully v<g ref="char:EOLhyphen"/>ſurpe the ſame: contrarie to the lawe of God: for is it poſſible he can be the true miniſter of God, &amp; a tem<g ref="char:EOLhyphen"/>poral magiſtrate that is, to ſerue God and Mammon to. As th'Apoſtle ſaith, <hi>Let him that hath an office at<g ref="char:EOLhyphen"/>tend vppon his office,</hi> and not offices.</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>Why howe dare you preſume to ſay ſoe? Were not L. Bb. eſtabliſhed by her Maieſtie &amp; con<g ref="char:EOLhyphen"/>ſent of the whole parliament?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>I graunt they were, but the Lorde hath ſaide contray, in the commaundement he gaue to his miniſters Luk. 22. ſaying, <hi>The kings of the gentiles raign over them, and they that beare rule over them are called gratious Ll. but yee ſhall not be ſo, but let the greateſt a<g ref="char:EOLhyphen"/>monge you be as the leaſt, and the cheefeſt as him that ſer<g ref="char:EOLhyphen"/>ueth, and</hi> 1. Pet. 5. <hi>Feede the flocke of God which depen<g ref="char:EOLhyphen"/>deth vpon you, caring for it, not by conſtrainte, but wil<g ref="char:EOLhyphen"/>lingly, not for filthie luker, but of a readie minde: Not as though ye were Lords over Gods heritage, but that yee may be enſamples to the flocke.</hi> And in the firſt ſeſſion of parliament, holden in the firſt yeare of her Maie<g ref="char:EOLhyphen"/>ſties raigne, there was neuer a Lorde B. in the lande.</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>If you wil haue noe L. Bb. howe ſhoulde the Church be gouerned then?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Accordinge as our Sauiour Chriſt hath commaunded, &amp; as the holy Ghoſt hath ſet it downe, vz. by paſtors Doctors, Elders, and deacons, Rom. 12. Epheſ. 4. 1. Cor. 12.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>You are very full of ſcripture, as though we haue not the ſame offices in effect, though not in
+<pb facs="tcp:10211:5"/>the ſame titles: as for example, haue not wee Parſons for Doctors, Vickers for Paſtors, Churchwardens for Elders, and Sidemen for Deacons to diſtribute to the poore.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>And what for Archbiſhops, and Lorde Biſhops?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>I will tell you for him, Archbiſhopps for Popes, and Lord Biſhops for Cardinals. Ha, ha, M. Vicker, I ſee you are a good Churchman, doe not you vſe the pulpit ſometimes?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Noe indeede ſir, but I reade the Homiles ſomtimes, and the Queenes Injunctions, and doe my dutie as other miniſters doe.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Me thought ſo, by that fitte compariſon that you haue made.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>And haue you no more but one benefice nei<g ref="char:EOLhyphen"/>ther, and yet do all that?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter</speaker>
+               <p>Yes in deede, I ſay ſeruice at two more, but I haue little profit by them, marie the beſt is, they are ſomwhat neere, for they are all three within foure miles together.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>And how can you ſerue them al vpon the Sabboth day?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke</speaker>
+               <p>Some of them are but ſmall, and I can make quicke diſpatche with them betimes, &amp; take my Mare and r de to the other: and can make an ende of all by ten of the clocke, and ſpende an houre with good fel<g ref="char:EOLhyphen"/>lowes at home before dinner to.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>And Maſt. Vicker, do you thinke herein, that you diſcharge your duerie to God, and thoſe con<g ref="char:EOLhyphen"/>gre gations, ouer whom you haue taken this charge?</p>
+            </sp>
+            <sp>
+               <speaker>Minister</speaker>
+               <p>Why ſir, I diſcharge my duetie better then thoſe that take vpon them foure or fiue.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Why? is there any that takes vpon them the charge of ſo many?</p>
+            </sp>
+            <pb facs="tcp:10211:5"/>
+            <sp>
+               <speaker>Miniſter</speaker>
+               <p>Yea a hundred in England.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Well I will cell you, the fearefull judge<g ref="char:EOLhyphen"/>ments of God hangs ouer our heades, and cannot be long deſerred, but fall vpon the whole land (where to ſuch dumbe idolls as you are, is committed the charge of ſoules) and to your ſelues eternall deſtruction of bodie and ſoule: wherefore <hi>M.</hi> Vicker, as you tender your owne ſaluation, leaue this your vnlawfull calling of the miniſtery, and betake you to ſome occupation, or huſbandrie.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>I care not what any of you ſpightfull Puri<g ref="char:EOLhyphen"/>tans ſay, ſo long as I can haue the fauor of my Lorde Biſhop.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>I pray you M. Vicker let me ſpurre a queſti<g ref="char:EOLhyphen"/>on vnto you, if I may be ſo bolde? where do you ſerue?</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>I ſerue in Middleſex Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Who made you miniſter?</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>My good Lord of London.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Like enough, he hath made a greate ma<g ref="char:EOLhyphen"/>ny of blinde guides in his time beſides you, for hee made the Porter of his gate, miniſter of Paddington, being blinde.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>O monſtrous, is this true, did he ſo indeede?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>It is moſt true, for the Biſhop of Win<g ref="char:EOLhyphen"/>cheſter hath recorded it in a booke of his ſet forth in print.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Why what will our Biſhops growe to in time if they be ſuffered? for me thinks this is a feareful thing, to make ſuch miniſters, as can neirher ſee nor ſpeake, for it is like if he were his porter, (no doubt of it) he had not the gift of teaching?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Very true, but becauſe he could doe him noe longer ſeruice, he was ſo good to him, to prouide for the poore blinde man that he might liue.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Sure I thinke when they come once to be
+<pb facs="tcp:10211:6"/>Lords, they cleane forget God and al godlineſſe, for I haue heard that there was ſome good thinges in him before he was Biſhop of London, for he wrote a book called the <hi>Harborowe of faithful ſubiects,</hi> againſt Biſh<g ref="char:EOLhyphen"/>ops: wherein he ſaith, <hi>Come downe yee Biſhops with your thouſands, and betake you to your hundreds, let your fare be Prieſtlike and not Princelike, &amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Indeede he wrote ſuch a booke, and the ſame words that you repeate, I haue read in the ſame: but alaſſe, when he was at the beſt, he was but a cor<g ref="char:EOLhyphen"/>rupt man, and the beſt things in it, ſauor but of earth: for there is many things handled in it very immodeſt<g ref="char:EOLhyphen"/>ly, and vnchriſtianly: but one thing eſpecially he ſetts downe there, which himſelfe practiſeth cleane contra<g ref="char:EOLhyphen"/>ry: where he ſpeaks of the habilitie that ſhoulde be in every miniſter of the worde, that <hi>he ſhoulde knowe his quarter ſtrooks, to be able to conuince the aduerſary, &amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Why? will you haue none Miniſters but ſuch as can preach? I can tell you, that the twentieth miniſter in the lande cannot preach?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>The more the worſe, for you and the reſt howe many ſoeuer there be ſtand without repentance in a moſt damnable ſtate, for you are moſt notorious murtherers of ſoules, in taking vppon you ſo high a calling, &amp; being ſo farre vnfitte for it: ſo many as pe<g ref="char:EOLhyphen"/>riſh for want of teaching, in your charge, their bloude the Lord wil require at your hands:</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>The Biſhop knewe my abilitie before he made me miniſter.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Wel, he ſtands in the ſtate of damnation as you doe, and thus much I ſay vnto you, and to all I<g ref="char:EOLhyphen"/>dole Miniſters, and to him, and all vſurping Archbi<g ref="char:EOLhyphen"/>ſhops and Lord Biſhops, leaue your vnlawful callings into which you haue intruded your ſelues, and with ſpeed repent, and humble your ſelues before the Ma<g ref="char:EOLhyphen"/>jeſtie
+<pb facs="tcp:10211:6"/>of God, confeſſing your horrible and grecuous ſinnes with <hi>Peters</hi> teares, in that you are the cauſe, yea and alſo the verye murderers of ſo manye ſoules, as periſh in your charges: knowing that the Lord will in that greate and terrible day, require their bloode at your hands.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>O Lorde, my heart quaketh to heare of ſo greate and greeuous ſinns as are in our Biſhops, and in the whole miniſterie: but our Biſhops are the cauſe of all.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>I will tel you Sir, I am perſwaded in my very conſcience, that the Lorde hath giuen many of our Biſhops ouer into a reprobate ſence, for they doe wilfully oppoſe them ſelues againſt the Lord his kno<g ref="char:EOLhyphen"/>en truth, yea and perſecute it, (and I ſuppoſe them to be in the ſtate of the ſinne againſt the holy Ghoſt) for they haue manifeſted in their publiſhed writings, yea &amp; preſſed forth by authoritie, ſuche horrible blaſ<g ref="char:EOLhyphen"/>phemous, hereticall, yea damnable doctrines, whiche my very heart trembleth to repeate, in ſorte as they haue ſet them down: which if thoſe (whome they falſ<g ref="char:EOLhyphen"/>ly call puritanes) ſhoulde ſet downe or holde the like errors and dangerous points, I warrant you the ſhould ſoone be cut of from the face of the earth, and right well they were worthy.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Nowe Sir I pray you let me heare ſome of the pointes they holde, and that are ſo dangerous as you ſay, that I may be able to juſtifie it to our dumbe doggs teeth, at Auſtins gate in London when I come home.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Firſt you ſhal vnderſtand, the Biſhop of London hath publiſhed in print, &amp; that in an Epiſtle or preface before <hi>Barnardeus de loques</hi> booke of the Church, publiſhed in engliſh, that the puritanes may as well deny the ſonne of God to be conſubſtantiall
+<pb facs="tcp:10211:7"/>with God the father, as they may deny the ſuperiori<g ref="char:EOLhyphen"/>tie of Archbiſhops and Lord Biſhops, flat contrary to the ſaying of our Sauiour Chriſt, Luke 22.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>O monſtrous and blaſphemous wretch, that to maintaine his fleſhly pleaſure, will make ſuch an o<g ref="char:EOLhyphen"/>dious compariſon.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Nay, what ſay you to a Biſhop that hath two wiues and both nowe liuing? Doe you not thinke it is a thing tollerable in a chriſtian common wealth, where the Goſpel is profeſſed?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>No indeed doe I not, I hope our magiſtrats wil not ſuffer ſuch a Biſhop to liue, it were monſtrous among common Infidels, much more intollerable, that a Biſhop in ſuch a land as ours is, where the Goſpell is truely taught: But I pray you is there any ſuch now liuing?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Yes in deed is there, and the Biſhop of Saint Dauids in Wales is the man, he is nowe liuing and both his wiues, and yet ſtil remaines a Biſhop.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Is it poſſible that a Biſhop ſhoulde commit ſuch an horrible act as this, howe far are our Biſhopps from obeing the commaundement of th'Apoſtle Pe<g ref="char:EOLhyphen"/>ter: who ſaith, <hi>Feede the flocke,</hi> and <hi>be enſamples to the flocke:</hi> what enſample is this? And doeth not the ſame God which ſaith, <hi>Thon ſhalt doe noe murther,</hi> which is death by our lawes, doth he not alſo ſay, <hi>Thou ſhalte not commit adulterie:</hi> And yet a Biſhop to haue twoe wiues at once, &amp; liue in a Church profeſſing the ſin<g ref="char:EOLhyphen"/>ceritie of the Goſpell: What ſay you to this Maſter Vicker, is not our Church wel gouerned thinke you?</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>If it be true, it is (I muſt needs confeſſe) a horrible thing and worthy of death, but I do not be<g ref="char:EOLhyphen"/>leeue it.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>It is very true, for the cauſe was brought before the high commiſſioners at Lambehith, and
+<pb facs="tcp:10211:7"/>howe it is ſmothered vp among the Biſhops, and the reſt of the commiſſioners, I know not yet, but I could tel you the whole coucluſion if I were at London but halfe an houre.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Why the ſuffering of this, &amp; other like vil<g ref="char:EOLhyphen"/>lanies, to be committed in our nation, are cauſes to ſtir vp the Lord to wrath, againſt the whole land, wherby he may ſpedily bring his judgments vpon vs, yea euen to our vtter deſtruction.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>It is ſo if it be true? but I wil not beleeue it.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Wel for the truth of the matter, I referre you to the high commiſſioners, where it is recorded, with his wiues names, vz. Elizabeth Gigge and Ales Prime.</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>Indeede I haue heard of the like before, that you puritans haue put forth a booke in print vn<g ref="char:EOLhyphen"/>der the name of <hi>Martine Marprelate,</hi> wherein many ſuch things are mencioned:</p>
+            </sp>
+            <sp>
+               <speaker>Puritan</speaker>
+               <p>There is nothing ſet downe in it, but there is good proofe of the ſame, &amp; the Biſhop of Winche<g ref="char:EOLhyphen"/>ſter, who took vpon him to confute it, hath confirmed it for the moſt part, &amp; that he denies is moſt true.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>What did he vndertake to confute it? Alas he is altogether vnlearned, (for I haue heard of him in Oxford, and the papiſts ſay, they can make him be<g ref="char:EOLhyphen"/>leeue the moone is made of greene cheeſe) marry to get him a name (forſooth) being a correcter with a Printer in fleetſtreete in London, who printed a Dic<g ref="char:EOLhyphen"/>tionarie called <hi>Sir Thomas Eliotts</hi> dictionarye, <hi>Cooper</hi> tranſlated a peece of <hi>Robert Stephanus</hi> his <hi>Theſaurus</hi> and joined it to the ſame with a fewe phraſes, and ſo bereaued the famous Knight of his labor, and calls it by the name of <hi>Coopers Dictionary:</hi> howe ſay you Ma<g ref="char:EOLhyphen"/>ſter Vicker, was not this a knauiſh tricke tel me?</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>I ſay you deale very vnreuerently with my
+<pb facs="tcp:10211:8"/>Lord: for I cann ſay nothing to the matter elſe, for I knowe it not to be true?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>What ſay you to this then maſter Vicker did you neuer heare of your Lord Biſhop of London, whoe made the Dyars, in Thames ſtreet whoe were robbed, by theeues that ſtoale their cloothe, and brought it within his liberties, which when the poore diars hearing where their clooth was, and comming to the Biſhop to demaunde their own goods, he ſaid: if they woulde hang the theeues, he woulde then tell them more, which the dyars did, and at their deathes, confeſſed that to be the dyars cloth which the Biſhop had, but the pore men were neuer the neere for their cloth, nor cannot get it or any parte of it to this day: and this is confeſſed to be true, by the biſhop of Win<g ref="char:EOLhyphen"/>cheſter in his anſwere to <hi>Martine Marprelate,</hi> publi<g ref="char:EOLhyphen"/>ſhed in print by authoritie: wherein he ſaith, it is the Biſhop of Londons own, by the lawes of the land, be<g ref="char:EOLhyphen"/>cauſe it was taken within his liberties, mary he ſpeaks nothing of the lawe of God, according to conſcience, in keping of thiefe ſtollen goods from their right ow<g ref="char:EOLhyphen"/>ners, for conſcience is fled from them (it ſeemes) ſo ſoone as they are gotten to be Lord Biſhops once.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Yes Sir I knowe there is ſuch a booke na<g ref="char:EOLhyphen"/>med <hi>Martin Marprelate,</hi> a moſt vile and ſſaunderous libel, but I doe not thinke my Lorde of Wincheſter doth approoue any thing that is ſet do wne there in any of thoſe books, for they haue put forth three or foure books vnder that title.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke</speaker>
+               <p>Why Maſter Vicker, howe doe they to get their books printed?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Tuſh they doe wel enough for that, there is a ſedſtious fellowe one <hi>Walde-graue,</hi> who comon<g ref="char:EOLhyphen"/>ly prints all ſuch bookes, (I knowe him wel enough) hee did keepe a ſhoppe at the ſigne of the Crane in
+<pb facs="tcp:10211:8"/>Paules Churchyarde: at which time he had his preſſe and letters taken away from him, and deſtroyed for the ſame cauſe, by my Lords grace of Canterbury, &amp; nowe he workes in corners vp and downe the Coun<g ref="char:EOLhyphen"/>try like a vagabond.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>With a ſeared conſcience, did the Biſh<g ref="char:EOLhyphen"/>ops that violence to him, in regarde both of the cauſe, and alſo for the greate charge he hath of wife and ſix ſmale children, and nowe to bereaue his Poore family of him, whoſe labors was their only comfort &amp; main<g ref="char:EOLhyphen"/>tenance.</p>
+            </sp>
+            <sp>
+               <speaker>Jack</speaker>
+               <p>Maſter Vicker how long was it ſince <hi>Walde<g ref="char:EOLhyphen"/>graues</hi> gooods were deſtroyed, I haue heard of him before nowe, but I knowe him not?</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>Tuſhe you knowe him well enough I am ſure, it is ſince his goodes were deſtroied about Eſter was a twelue moneth.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>And hath he bene all this time abſent from his family?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>I Sir, and if he had bin there, he would ea<g ref="char:EOLhyphen"/>ſily haue bin had, for he hath bin watcht wel enough for that?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>I will tell you Sir howe they deale with him, when they haue any ſuſpition that he is at home, although he durſt neuer come home, they ſticke not in the deade time of the nighte, to breake downe the maine wales of his houſe, and enter in with conſtables and purſiuants, and this is a common thing with them.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>I am perſwaded, the Biſhops had bin better to haue giuen him freely 2. hundred pounds towards the ſetting vp of a newe printinge houſe for himſelfe, then to haue deſtroied his as they haue done:</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>I thinke ſo, for it may be he woulde haue followed his calling ſome other way, then to be im<g ref="char:EOLhyphen"/>ploied in thoſe things?</p>
+            </sp>
+            <pb facs="tcp:10211:9"/>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Yonder comes a man plodding a pace after vs whatſoeuer he be?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>It may be our companie wil increaſe, and ſo we ſhall goe the more cheerefull, for it begins to to be late, and it is dangerous going here abouts, late I can tel you?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>It may be he is one of your coate Maſter Vicker?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>I cannot tel, but if he be, he ſhall be wel<g ref="char:EOLhyphen"/>come to me.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Surely he comes a pace, whatſoeuer he be?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>It may be he woulde be glad of company?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Well let vs goe on and continue our talke?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Maſter Vicker I thinke be weary of our communication, if you be let vs knowe?</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>Noe by my faith Sir not I, ſay what you wil a Gods name?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Fye, Maſter Vicker, will you ſweare? I thinke you learned that of your Lord Biſhop of Lon<g ref="char:EOLhyphen"/>don, for he vſeth it often, when he is at boules.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>What wil Biſhops ſweare?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Sweare Sir, I that they wil, and defende it to, when they haue done? For in the firſt booke of Martin, there is mention made of the Biſhop of Lon<g ref="char:EOLhyphen"/>dons ſwearing, when he is at bowles: And the Biſhop of Wincheſter in anſwering the ſame, ſaith thus, in page. 62. of his booke, <hi>That our Sauiour Chriſt vſual<g ref="char:EOLhyphen"/>ly ſware by his faith in his ſermons, For he ſaide Amen, Amen, which is as much to ſay (ſaith he) as by my faith, by my faith?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Why is that a Biſhoppe of God, that will ſweare thus?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Fo, I haue hearde my Lords grace of Can<g ref="char:EOLhyphen"/>terbury ſweare by his faith an hundred times, yea and by God to ſometimes, and what he doth, I take it as a
+<pb facs="tcp:10211:9"/>good preſident for ſuch as I am to followe?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Ile tel you Maſter Vicker, I am of doctor <hi>Bridges</hi> his minde of our Biſhops: for (ſaith he) page 339.340. <hi>That all our Lord Biſhops in England, are the Biſhops of the Diuel:</hi> And I am ſure of it by theſe two marks, vz. <hi>by their tyranical dealing againſt Gods chil<g ref="char:EOLhyphen"/>dren,</hi> and <hi>by their wicked and vnconſcionable liues, that they are not of God?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>I pray you hath Doctor Bridges written a<g ref="char:EOLhyphen"/>ny booke that is publiſhed to this effect?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Yes indeed, and the Biſhop of Canter<g ref="char:EOLhyphen"/>bury hath confirmed it by his authoriſing of the ſame, and alſo by his continual practiſe againſt. Gods chil<g ref="char:EOLhyphen"/>dren?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>But I pray you Sir, howe wickedly hath he wreſted the Scripture, in ſaying our Sauiour Chriſt continually ſware in his ſermons, when he ſaide A<g ref="char:EOLhyphen"/>men, Amen?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Why the Biſhop of Wincheſter, is moſt impudent in al his actions, for very blaſphemouſly in his ſermon, preached at <hi>Mary Overies</hi> at London, <hi>ſaid</hi> that <hi>a man might as wel finde fault with the holy Scrip<g ref="char:EOLhyphen"/>ture, as with our corrupt Common booke of prayer?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iacke</speaker>
+               <p>Our vpon him blaſphemous wretch, he is certainly the Biſhop of the Diuel, as Doctor <hi>Bridges</hi> ſaith.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Will you heare ſome more of his Diui<g ref="char:EOLhyphen"/>nitie?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>O Yes I pray you Sir? And yet my harte trembleth to heare of ſuch odious blaſphemies as theſe:</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>He ſaith it the 49. page of his booke a<g ref="char:EOLhyphen"/>gainſt Martine Marprelate: <hi>That the Creed of the A<g ref="char:EOLhyphen"/>poſtles, Athanaſius, &amp; the Nicene, &amp;c. containe in them many palpable lies:</hi> Nowe tel me your opinion of this,
+<pb facs="tcp:10211:10"/>is it not ſound and ſubſtantial doctrine I pray you tell me?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke</speaker>
+               <p>Doctrine yea indede, this may truly be ſaide to be the doctrine of Diuels? Why whither will our Biſhops runne in time trowe you, if the Magiſtrate ſuffer them?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>I wil tel you, euen to their father the Di<g ref="char:EOLhyphen"/>uel: For they haue at no time taken in hand to write in defence of their hierarchie, but it hath made their eies ſo to dazle, that they run into moſt dangerous &amp; damnable errors, (as in this booke of the Biſhopps will be prooued neere. 500. errours) yea in correc<g ref="char:EOLhyphen"/>ting and controling the mightie word of God, and al<g ref="char:EOLhyphen"/>ſo haue interlaced their writings with ſuch contrari<g ref="char:EOLhyphen"/>etie of matter, as one parte of their owne books may ſerue to confute the other, with infinite abſurdities: yea and by your leaue to, even flat treaſon?</p>
+            </sp>
+            <sp>
+               <speaker>Jack</speaker>
+               <p>Many good men did neuer judge the biſhop of Wincheſter, to be but an hipocrite?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>He is a moſt bitter man to all thoſe that feare God, and haue to deale with him, for he may well be compared to a horſe with a galde backe that hath bin ſo rubd, that he winces, frets, and chafes, ſo, that he is ready to throwe himſelfe to vtter deſtructi<g ref="char:EOLhyphen"/>on, with purpoſe to hurt him that rubd him: Even ſo, this Biſhop takes to himſelfe ſo much libertie in abu<g ref="char:EOLhyphen"/>ſing and profaning the holy worde of God, (againſt thoſe that write in the Lords cauſe, againſt their vn<g ref="char:EOLhyphen"/>laweful callings) and that I feare me, to the endange<g ref="char:EOLhyphen"/>ring both of body and ſoule.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke</speaker>
+               <p>I haue heard that when he was at Lincolne he dealt not ſo hardly with the miniſters as nowe he doth, and that often in his Sermons at Northampton he woulde confeſſe, that the Diſcipline was vſed and practiſed in the Primitiue Churche, a long time after
+<pb facs="tcp:10211:10"/>the Apoſtles.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>It is very true, &amp; yet he ſaith in his book againſt <hi>Martin,</hi> that the holy Diſcipline is a platform deuiſed he knowes not by whome: And in an other place of the ſame booke he confeſſes that it was prac<g ref="char:EOLhyphen"/>tiſed by the Apoſtles, and long time after in the Pri<g ref="char:EOLhyphen"/>mitiue Church, and vppon the words where he ſaith <hi>it is not denied,</hi> there is paſted, at the commandement of the Biſhop of Canterbury, <hi>It is not yet prooued,</hi> ſo that there is ſome Iar, betweene themſelues, although theſe two are moſt conuerſant together, and joine in one to perſecute ſinceere and faithfull preachers of the word, and others of the Lords children.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>I had thought they woulde not haue diſſen<g ref="char:EOLhyphen"/>ted one from a nother of them?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Why ſir in the 49. page of the ſame book the Biſhop of wincheſter ſaith, the Biſhop of Canter<g ref="char:EOLhyphen"/>bury <hi>is a giddy head, and to be brideled,</hi> becauſe he au<g ref="char:EOLhyphen"/>thoriſed Doctor <hi>Whitaker</hi> his readinges againſt <hi>Bel<g ref="char:EOLhyphen"/>larmina,</hi> wherein the <hi>Apocripha</hi> is defaced: And M. Doctor <hi>Some</hi> one of their affinite no we, and a noure<g ref="char:EOLhyphen"/>reſident, he calls the Archbiſhop of Canterbury <hi>An abſurde Heretike,</hi> becauſe he holds baptiſme admini<g ref="char:EOLhyphen"/>ſtred by weomen, to be the ſeale of Gods couenante: page 3. of his booke againſt <hi>Maſter Penri,</hi> &amp; many like things I could cite to you, of their diffenting on from another.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Howe like you of theſe things Maſter Vic<g ref="char:EOLhyphen"/>ker, be not theſe good fathers of the Church, thinke you?</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>I like neuer a whit the worſe of them for your words, for I knowe they are but ſlaunders?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Maſter Vicker, you I knowe like well of them, although the proofes that their aduerſaries doe bring be neuer ſo manifeſt and plaine aganſt them, be<g ref="char:EOLhyphen"/>cauſe
+<pb facs="tcp:10211:11"/>you are in the ſame ſtate, or worſe (and may be) in that you doe vnlawfully vſurpe your place, and ha<g ref="char:EOLhyphen"/>uing noe fit gifts to diſcharge your dutie in any mea<g ref="char:EOLhyphen"/>ſure: Remember what th'Apoſtle ſaith, 1. Corinth. 6.19. <hi>Woe is to me if J preach not the Goſpel,</hi> this is right<g ref="char:EOLhyphen"/>ly pronounced vpon you, &amp; all ſuch Idoles as you are?</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>If I reade ſermons and homiles, is it not as much as if I preached: for Maſter Doctor <hi>Bridges</hi> ſaith, that <hi>reading is preaching?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>The Lord hath promiſed noe ſuch bleſ<g ref="char:EOLhyphen"/>ſing vnto reading as preaching, for the word preached is the onely ordinary meanes to ſaluation: But I pray you for your comfort, heare what the prophet <hi>Ieremy</hi> ſaith to you, in the 48. Chap. <hi>Curſed be that man, that doth the worke of the Lord negligently,</hi> &amp; Mallac. 2.7. ſaith, <hi>the prieſts lips ſhoulde preſerue knowledge, &amp; they ſhoulde ſeeke the lawe at his mouth,</hi> but howe can you ſhunne this curſe Maſter Vicker? I pray God humble your hart that you may acknowledge your ſinne, and craue pardon at his hands, and leaue the miniſtery, leſt the Lord with a ſtrong hand throwe you out to your everlaſting woe.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Maſter Vicker he giues you good counſell, it were good for you to followe it, if you doe not, it wil be the worſe for you?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Wel Sir it is noe matter, there be as wiſe as he wil giue me other councell?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Why I ſee Maſter Vicker is obſtinate, hee will not be perſwaded by you?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Even as he will, I ſpeake my conſcience to him, he may chuſe if he wil followe it or noe?</p>
+            </sp>
+            <sp>
+               <speaker>Jack</speaker>
+               <p>I maruel what good hoſpitallitie the Biſhop of London keepes, I haue heard that he is very coue<g ref="char:EOLhyphen"/>tous?</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>Indeed he doth keepe a good houſe?</p>
+            </sp>
+            <pb facs="tcp:10211:11"/>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>What doth not the doggs run away out of his houſe with whole ſhoulders. I thinke a man may as ſoone breake his neck, as break his faſt at his houſe?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Surely I can ſay thus much by reporte of one that was his Chaplaine, whoſe name is <hi>Haiwarde</hi> Vicker of Saint <hi>Martins, by Charing croſſe,</hi> that often times when he hath dined at his Pallace in London, he hath made his ſeruantes, to take the fragments &amp; carry them to <hi>Fulham,</hi> but if there be any dainty mor<g ref="char:EOLhyphen"/>cel left, he wil wrap it vp in his handkerchefe, and ca<g ref="char:EOLhyphen"/>ry it in his boſome for feare leſt his men ſhould begile him.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>O Maſter Vicker, you haue a moſt bounti<g ref="char:EOLhyphen"/>full Lorde: he is ſo liberall, that he will not ſuffer the ſcraps to be beſtowed vppon the poore, but to be kept for his ſeruants ſupper?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>It is faulſe, for I haue often ſeene almes giuen at his gates, when he hath lien at London:</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Ile tell you what I haue hearde him ſay at Pauls croſſe my ſelfe vppon a time, following his text very wel: (you muſt thinke) he burſt me out with a greate exclamation of him ſelfe, in that he was poor and had noe money, proteſting what charges he had bin at, <hi>and that Paules Churche can beare me witneſſe:</hi> (ſaith he) that I haue noe money: And ſhortely after ſome of his owne ſeruants being there preſent, and heard him, (belike thought to make their good Lord a liar) very ſhortly after, robd him, of certain hundred of pounds, for which offence, he was ſo good vnto his men, as to hange them vp three or foure in number, (although he had the moſt parte of his money again) and ſome of the parties executed, proteſted to their knoweledge, he had much more mony at vſury, and that his ſeruants liued only vpon bribes.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>A Biſhop a lyar and a vſerer, nay ſurely M.
+<pb facs="tcp:10211:12"/>Vicker, if your Lord haue thoſe two faults, it cannot be but he hath more, ſo that for mine owne parte, I thinke him verely to be the Biſhop of the Diuell.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Nay Sir I can giue you proofe for the ſame more, that he is ſurely the Biſhop of the Diuel, for <hi>Martin Marprelate</hi> hath ſet downe a pretty thing in his <hi>Epistle to the terrible priests,</hi> that the Biſhope of London when he throwes his bowle, (as he vſeth it commonly vppon the ſabboth day) he runnes after it, and if it be toe harde, <hi>he cries, rub, rub rub, and ſaith the Diuel goe with thee, when he goeth himſelfe with it:</hi> So that by thoſe words, he nameth him ſelfe the Biſhop of the Diuell: but by his practiſe of tiranicall dealing againſt the Lords faithful miniſters, not only calleth, but prooueth himſelfe to be the Biſhoppe of the Di<g ref="char:EOLhyphen"/>uell.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Ha, ha Maſter Vicker, you ſee your Lorde Biſhop is a Diuel by his owne confeſſion: ſo indeede, you are not the Lords Miniſter, but the Miniſter of the Diuel, as your Lorde Biſhop is the Biſhop of the Diuell.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter</speaker>
+               <p>You vſe your ſpeeches at pleaſure of my Lord, it may be you wil not ſo eaſily anſwere them when you are called therevnto?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Yes Maſter Vicker I warraant you? Send a purſiuant when you will for vs, and we wil anſwere it, if wee can not make our parts good enough, we will ſend the weomen of <hi>Hampſteed</hi> to him?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>What meane you by that?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>If you will needs haue me, I will tell you, you ſhall vnderſtand Maſter Vicker, that your good Lorde, at his firſt comming to be the Diuels Lorde at <hi>London,</hi> began to play <hi>Rexe,</hi> (as he hath lately done at <hi>Fulham,</hi> in cutting downe the trees, there, to the greate impoueriſhing of the towne) to cut downe the
+<pb facs="tcp:10211:12"/>woods at <hi>Hampſteed,</hi> and needs he woulde doe it, and began pretily well with it, the townes men became ſu<g ref="char:EOLhyphen"/>ters to him that he woulde not, they coulde not per<g ref="char:EOLhyphen"/>ſwade him, for he was Lord of it, he ſaide: Wel ſeeing the men coulde doe noe good with him, the women tooke the matter in hande, and as the Diuells men came, (that is your Lords) to cut downe their woods, the weomen fel a ſwadling of them, ſo that they durſt come noe more to cutte downe any trees there. Thus you ſee the women overcame the Diuel, and ſo feared him, that thereby they preſerued their woods. For by very nature, theſe Diuels Biſhops ar giuen to deſtroy both Church and common welth? But if wee be not good enough for them, we will intreate the weomen of <hi>Hampſteed</hi> to take the matter in hand.</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>Well I doubt not but you will for all this luſtines, kiſſe the Clinke or gatehouſe for this geare, for my Lords grace ſhal knowe of it, if my Lorde doe not?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Why Vicker of the Diuell, let the whole conuocation houſe of Diuels know of it and you wil, for they dare not, noe not <hi>Beelzebub</hi> of Canterburye the cheefe of the Diuels, come to diſputation, therby to approoue their Callings to be lawefull, and other points in controuerſie againſt the diſcipline of God, as they haue bin ofte<g ref="char:cmbAbbrStroke">̄</g> challenged, &amp; offerd by the pu<g ref="char:EOLhyphen"/>ritans, even to aduenture their liues againſt their Bi<g ref="char:EOLhyphen"/>ſhopricks, and yet they durſt not. And I pray you tell me; if they were not the Biſhops of the Diuel indeed, woulde they refuſe this offer?</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>Why the puritans haue bene often diſpu<g ref="char:EOLhyphen"/>ted with?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Where? In the Biſhops cloſet? For they are aſhamed to haue it tried before any Magiſtrate, Let them if they dare procure a free diſputation, wher
+<pb facs="tcp:10211:13"/>by every man may freely ſpeake, and be indifferently heard, and if the Biſhops and al their partakers be not ouerthrowne, I will looſe my life for it?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Haue they not bin already by publike wri<g ref="char:EOLhyphen"/>ting, and otherwiſe, but eſpecially by my Lords grace, his works againſt <hi>Cartwright,</hi> ſufficiently confuted I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Noe indede, but I wil tel you what a no<g ref="char:EOLhyphen"/>ble man profeſſing the Goſpel ſaide, he de maunded of the olde Lorde <hi>Henry Howard</hi> (the Earle of <hi>Arun<g ref="char:EOLhyphen"/>dels</hi> vncle nowe liuing, being a profeſſed papiſt) what he thought of <hi>Whitgifts</hi> anſwere to <hi>Cartwright,</hi> who anſwered, <hi>there was no compariſon to be made betweene them, for</hi> Whitgift (ſaith he) <hi>is not worthy to cary Cart<g ref="char:EOLhyphen"/>wrights books after him for learning:</hi> Marke heere the opinion of a papiſt, you knowe a deadly aduerſarie to <hi>Maſter Cartwright:</hi> and yet the ambitious wretch will not ſticke nowe he is an Archbiſhoppe, to call thoſe that are able to teach him (&amp; which were in the Goſ<g ref="char:EOLhyphen"/>pel before him) boyes, and reuile them farre beyonde all chriſtian modeſtie: and againe, if a man apply any newe writer his opinion of the reformed Churches, in defence of the Lordes trueth, as <hi>Maſter Caluine, Beza</hi> or others, he will not alſo ſticke to bragge and tel him, that he is able to teach <hi>Caluine</hi> and <hi>Beza,</hi> or a<g ref="char:EOLhyphen"/>ny of them all: but the wretch nor his aſſociates, dares not diſpute with <hi>Maſter Cartwright, Caluin,</hi> or <hi>Bezaes</hi> inferiors.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Tuſh, foe, he ſites nowe vppon his cogging ſtoole, which may truly be called the chaier of peſti<g ref="char:EOLhyphen"/>lence, little may he doe if he cannot bragge, Crake &amp; face it out: for the trueth is, he wrote againſt the Diſ<g ref="char:EOLhyphen"/>cipline, for noe other end, but to get a Biſhoppricke, for he neuer wrote ſince he hath caught one I war<g ref="char:EOLhyphen"/>rant you: And the pide faced foole Doctor <hi>Bridges</hi> i<g ref="char:EOLhyphen"/>mitating
+<pb facs="tcp:10211:13"/>him, hoping to leape like as he hath done, but it wil not be?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>O you are greatly deceyued, D. <hi>Brid<g ref="char:EOLhyphen"/>ges</hi> hath vtterlye renounced the Biſhopps as I haue heard, for that the Archbiſhop hath broken his faith with him?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke</speaker>
+               <p>How comes that to paſſe I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>I will tel you, at the beginning of the laſt parliament, there were Biſhops to be ſtalled, and his grace had promiſed him verye confidently, that hee would not onely ſpeake for him, alſo aſſure him of a Biſhoppricke? Vppon whiche the aſpiring wretche did onely relie, otherwiſe it may be he woulde haue bribed ſome courtier to haue dealt for him, as he did for his Deanry: But her Maieſtie lying at <hi>Richmond,</hi> and maſter Doctor repairing thither, vpon the green afore <hi>Richmond</hi> houſe, met with Maſter <hi>Thornbie</hi> the Maſter of the <hi>Sauoy,</hi> whoe tolde him that he harde he was a ſuter for the Biſhoppricke of ſuch a place: Ma<g ref="char:EOLhyphen"/>ſter Doctor <hi>Bridges</hi> anſwered and ſaide, it was true, he had the grant of it at his grace his hands: ſaith maſter <hi>Thornby,</hi> I had a promiſe of it to: but it is certain that his grace hath got it for an other man, and he hath finiſhed it, and al is paſt, I can aſſure you of it: With that the Doctor was in his madde moode, and ſaide, <hi>hath he ſerued me ſo, whie then I wil ſay, and may speake it truely, there is noe faith in a Biſhop. Haue I wrote in their defence, and haue gotten the ignomie, ſhame, and reproache of it by publike writinge, and nowe to be thus vildely dealte with: J will tel you maſter.</hi> Thornby, <hi>J do protest, and alwaies will affirme it: That it is better to haue one inche of pollicie, then all the Diuinitie in the worlde.</hi> If maſter <hi>Thornebie</hi> will denie this to be true, there be both godly and worſhipfull will juſtifie it to his face.</p>
+            </sp>
+            <pb facs="tcp:10211:14"/>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Nay it is like ynough that the B. of Cant. hath ſerued him ſo, it is not the firſt like prancke he hath played, for it is his manner, he wil promiſe much and performe nothing: but perſecute Gods miniſters, and glory in him ſelfe: For if any godly miniſter, or any other that feare God, come before him, he will offer them the oathe, either to accuſe themſelues, or their chriſtian brethren, or both, yea though no body bee able to charge them with anye offence: and if they wil not ſweare, then to the Clinke, Gatehouſe or white Lyon they goe roundly, and when ſute is made vnto him for their libertie: Then except they will en<g ref="char:EOLhyphen"/>ter into bonds to performe this, or doe that: why he will ſay they ſhall lye til they rotte, with other bitter wordes. And he was wont to vſe theſe wordes often, and had a greate pride in ſpeaking them (I can not tel whether he hath left them nowe or noe,) <hi>As long as the Queene and I liue, it ſhall be this or that.</hi> Iudge you of this man, whether he hath an humble ſpirite, or an aſpiring minde, to joine him ſelfe with his dreade ſo<g ref="char:EOLhyphen"/>ueraigne the Queenes maieſtie. He were beſt to re<g ref="char:EOLhyphen"/>member his prediceſſor <hi>Cardinall Wolſey,</hi> betimes, leſt he haue the ſame end <hi>Cardinall Wolſey</hi> had.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter</speaker>
+               <p>I hope for theſe your taunting ſpeeches to ſee you trunſt, if I meet you handſomlye in place where?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke</speaker>
+               <p>Why Vicker of the Diuell, (I thinke you to be one of the Vickers of Hell, that <hi>Martine</hi> ſpeaks of) it is noe maruel, though you take the Biſhops of the Diuels parte. For <hi>Winchester</hi> when he went his viſi<g ref="char:EOLhyphen"/>tations laſt, tolde your companions the dumb doggs, that if his grace of Canterbury, and him ſelfe had not kneeled before her Maieſtie for you, you had bene all of you thruſt out of the miniſtery?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Oh wicked act, it had bene better that
+<pb facs="tcp:10211:14"/>neither of them had had a joint to bow, then to worke ſuch a villanny to Gods Church.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Herein they vſed greate pollicie (you muſt thinke) for if we had a learned Miniſtery once, they knowe their kingdome would ſone fal to the ground. Therefore they take order for that. For they will ſuſ<g ref="char:EOLhyphen"/>pend and thruſt all thoſe out of the Miniſtery, that haue gifts fit for that high calling: and keepe none in, except nonreſidence, ſuche as gape after Biſhopp<g ref="char:EOLhyphen"/>ricks, or dumbe Idole miniſters?</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt</speaker>
+               <p>you are well overtaken my maſters? Which way trauel you I pray?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Towards London Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt</speaker>
+               <p>What good newes is there abroad doe you heare any?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>I knowe none good, for the land is ſore troubled with theſe trecherous <hi>Papists,</hi> and filthy <hi>A<g ref="char:EOLhyphen"/>theiſts:</hi> and our church peſtered with the Biſhopps of the Diuel, nonreſidents, Popiſh prieſts, and dumbe doggs, that there is noe place, nor being for a faithful miniſter of the word: for if there be any in any charge, the Biſhops haue their <hi>Iohn Avales,</hi> to fetch them vp before them, and then if they wil not ſubſcribe, out of the miniſtery he goes roundly?</p>
+            </sp>
+            <sp>
+               <speaker>Papist</speaker>
+               <p>It was neuer merry worlde ſince there was ſo many puritans, &amp; ſuch running to Sermons as there is nowe.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke</speaker>
+               <p>Why? Doe not you loue to heare Sermons?</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt</speaker>
+               <p>Noe, I care for none of theſe preciſe fel<g ref="char:EOLhyphen"/>lowes, I wil not come at any of their Sermons.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>I ſmell you already, I perceue you are a Pa<g ref="char:EOLhyphen"/>piſt.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt</speaker>
+               <p>Whatſoeuer I be, you may be ſure I am noe puritane, for a Papiſt, is alwaies better then a puritan, and more friends he ſhall finde, both at home and a<g ref="char:EOLhyphen"/>broade.
+<pb facs="tcp:10211:15"/>And I haue heard my Lords grace of Canter<g ref="char:EOLhyphen"/>bury, and the Biſhoppe of <hi>Wincheſter,</hi> ſpeake it with mine owne eares.</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>I can ſay thus much my ſelfe, my Lordes grace is not ſo much troubled with papiſts as with puritanes?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>And I can ſay thus much to, the papiſts haue more fauor of his grace a greate deale, then the Puri<g ref="char:EOLhyphen"/>tanes?</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt</speaker>
+               <p>My lords grace you knowe, had a good ma<g ref="char:EOLhyphen"/>ſter, and one that kept him farr enough from this pre<g ref="char:EOLhyphen"/>ciſenes, I warrant you?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Who was his maſter I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Papist</speaker>
+               <p>Mary Maſter Doctor <hi>Pearne</hi> Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>What Doctor <hi>Pearne?</hi> why he is the nota<g ref="char:EOLhyphen"/>bleſt turnecoate in al this land, there is none compa<g ref="char:EOLhyphen"/>rable to him? Why every boy hath him in his mouth, for it is made a prouerbe, both of olde &amp; young, that if one haue a coate or cloake that is turned, they ſaye it is <hi>Pearnd.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>And doe you thinke the Biſhop of Can<g ref="char:EOLhyphen"/>terbury wil be as good a turner, as his Maſter Doctor <hi>Pearne</hi> is?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Nay, he will exceede his Maſter, I am per<g ref="char:EOLhyphen"/>ſwaded?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Me thinkes there ſhoulde be others as expert, and likely to make as good workemen in that art, as his grace or his maſter Doctor <hi>Pearne</hi> himſelfe is?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Whoe ſhoulde they be?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>What ſay you to <hi>Iohn</hi> of <hi>Gloceſter,</hi> Doc<g ref="char:EOLhyphen"/>tor <hi>Kennolde,</hi> Doctor <hi>Bancroft,</hi> Doctor <hi>Goodman,</hi> the Abot that nowe is of <hi>Weſtminster,</hi> Doctor <hi>Sprent</hi> of <hi>Bristowe,</hi> and Maſter Doctor <hi>Bridges</hi> Deane of <hi>Sa<g ref="char:EOLhyphen"/>rum.</hi>
+               </p>
+            </sp>
+            <pb facs="tcp:10211:15"/>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Yea and I may ſay to you, all the Biſhops of the Diuel and nonreſidence, are likely to ſay pretly well to the matter to?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>I had forgotten one that I ſhoulde haue <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ominated to, that is Doctor <hi>Culpepper</hi> of <hi>Oxforde,</hi> whoe hath the name to be a notable hunter?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>What Doctor <hi>Culpepper,</hi> Ile tel you there is many good things in him that way, but I will tel you one or two notes of his ſingle giftes. For he is an Archdeacon, and going in his viſitation, not far from <hi>Oxford:</hi> It is an ordinarye thing with them, to haue a Sermon before the keep court, &amp; alwaies the court is kept in the Ghurch? The preacher ſomewhat troub<g ref="char:EOLhyphen"/>ling him, (in telling the ſpiritual fathers their duties) did ſometimes nod at the preacher ſo as he did per<g ref="char:EOLhyphen"/>ceiue him, to the end he ſhoulde make an end of his Sermon. The preacher notwithſtanding went forward with his text, which troubled Maſter Doctor ſore. Then he fel a beckoning to the preacher, the precher would not ſee his ſignes, althogh the audience great<g ref="char:EOLhyphen"/>ly marueled at him, then Maſter Doctor (being ſoare galled you muſt thinke,) ſpake to him and bad him come down: the precher thought it not long (though Maſter Doctor were weary to heare his dutie tolde him in ſo plaine a manner) and ſeeing he could vſe no means to get him out of the pulpit, caled the cryar to him, and bad him cry, <hi>Ho yes,</hi> and ſo he did. Then went he very reuerently about his buſines, &amp; left the prea<g ref="char:EOLhyphen"/>cher in the pulpit: Nowe tel me I pray you, whether he had more minde to heare the worde preached, or to be with his kenell of hounds.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Is this Doctor <hi>Culpepper</hi> of <hi>Oxforde</hi> I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke</speaker>
+               <p>I mary is it Sir, it is the ſame man, and very well knowne to loue a hound a hauke and, &amp;c.</p>
+            </sp>
+            <pb facs="tcp:10211:16"/>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>I pray you can you tel me, I haue hearde that D. <hi>Bond</hi> is made maſter of <hi>Magdalins</hi> in <hi>Oxford,</hi> contrary to the ſtatutes of the Vniuerſitie: Whereas one Maſter <hi>Smith</hi> was firſt elected, according to the orders of the houſe before him, he being one that ſtands for reformation in our corrupt Church gouer<g ref="char:EOLhyphen"/>ment. Therefore as I haue hearde, the Biſhoppes of Canterburie and <hi>Winchester,</hi> to preuent him, labored to her Maieſtie, that ſhee woulde giue commaunde<g ref="char:EOLhyphen"/>ment, that the houſe ſhould accept of Doctor <hi>Bonde</hi> in his ſteed, which by the Biſhops greate labor, it was accompliſhed.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>It is very true Sir, I can aſſure you of that, and he may wel be called the <hi>Bonde</hi> of iniquitie for a<g ref="char:EOLhyphen"/>ny goodnes is in him, he looks I can tel you to be a Lorde Biſhop of the Diuell ſhortely, beſides he is a good daunſer: I haue heard howe he ere nowe, hath come to a houſe in <hi>Oxforde,</hi> (it ſhall be nameleſſe,) where certaine weomen of the towne, were ready to goe daunce, (it may be a match made of him before hande) comes me in the ſame houſe very pleſauntly to them: ſaying, you are wel mette, and makes him re<g ref="char:EOLhyphen"/>dy for them: Firſt put of his Cappe, ſaying lye thou there Cap, then his tipper, lye thou there tippet, then his gowne, lye thou there gowne: And laſt of all his booke (ſaith he) lye thou there Diuinity &amp; all: Then about the houſe he goes with the weomen: nowe tell me I pray you, if he doe not drawe in the <hi>bonde</hi> of ini<g ref="char:EOLhyphen"/>quitie or noe?</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>Surely I ſee that noe good men are left almoſt in any place, where they may be a helpe to in<g ref="char:EOLhyphen"/>creaſe or comfort thoſe that feare God. For the Bi<g ref="char:EOLhyphen"/>ſhops haue laide ſo many plotts, that they haue pre<g ref="char:EOLhyphen"/>uented all meanes whatſoeuer. Is not this a Diueliſh pollicie of the Biſhop of Canterbury, to place ſuch
+<pb facs="tcp:10211:16"/>heads in the vniuerſitie: That none ſhal proceed, or be preferred but ſuch as wil ſubſcribe. Well though the admonition which the Archbiſhoppe of <hi>Yorke</hi> gaue him in a letter before his death, doe not worke that effect in him, which the Biſhop wiſht: Yet our hope is, that the Lorde will ſoone bring him to the ſame end, at the which, he may with the ſame Biſhop con<g ref="char:EOLhyphen"/>feſſe his ſinne, in vſurping that vnlaweful calling he is nowe in: that is a Pope or Paſtor of paſtors, with al other his injurious and tirannical dealing with Gods miniſters &amp; other his children. For of all the Biſhops that ever were in that place, I meane in the See of Canterbury, did neuer ſo much hurt vnto the church of God, as he hath done ſince his comming. No Bi<g ref="char:EOLhyphen"/>ſhoppe that ever had ſuche an aſpiring and ambitious a minde as he, no not <hi>Cardinal Wolſey:</hi> none ſo proud as he, no not <hi>Steuen Gardiner</hi> of <hi>Wincheſter:</hi> none ſo tirannical as he, noe not <hi>Bonner.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Howe ſay you Maſter Vicker, were it not a good thing if al Biſhops, and ſuch Idole ſhepherds as you are were a dying, then you woulde be in better mindes then all the dayes of your life before?</p>
+            </sp>
+            <sp>
+               <speaker>Minist.</speaker>
+               <p>You ſay your pleaſure, but I care not what you ſay, thats the beſt of it.</p>
+            </sp>
+            <sp>
+               <speaker>Papist</speaker>
+               <p>Maſter Vicker the gentlemen are diſpoſed to mooue your patience, therefore you muſt beare with them.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Maſter Parſon thinks I am in good earneſt, but he is deceyued, for I aſſure you I doe nothing but to ſee what this puritane will ſaye: and the puritane thinks I am one of his fraternitie.</p>
+            </sp>
+            <sp>
+               <speaker>Papist</speaker>
+               <p>But are you not ſo indeed?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Noe truly, I came from <hi>Orleans,</hi> where I heard Maſſe euery day: ſee ſee howe harde the, Vicker and he are in talke, let them alone we wil goe on.</p>
+            </sp>
+            <pb facs="tcp:10211:17"/>
+            <sp>
+               <speaker>Papist</speaker>
+               <p>I can hardly beleeue that you heard Maſſe at <hi>Orleans?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jack</speaker>
+               <p>if I had not bin preſent at the Maſſe, I ſhould haue bene taken for a <hi>Hugonot,</hi> and ſo I ſhoulde hard<g ref="char:EOLhyphen"/>ly eſcaped with my life.</p>
+            </sp>
+            <sp>
+               <speaker>Papist</speaker>
+               <p>I am the gladder of your company.</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>And I of yours, for I perceue you are a Ca<g ref="char:EOLhyphen"/>tholike.</p>
+            </sp>
+            <sp>
+               <speaker>Papist</speaker>
+               <p>Yea indeed, and I will not deny it: looke, I thinke the puritane and the Vicker will goe by the eares?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke</speaker>
+               <p>He ſhall doe the Vicker no wrong for al my ſpeeches to him: and he will be ruled by me, wee will haue him before my Lords grace, for we wil giue him the ſlip, when we come in the Citie, and one of vs wil fetch a purſiuant and the other twoe ſhal dog him.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt</speaker>
+               <p>Content ſir, if you pleaſe, let it be ſo?</p>
+            </sp>
+            <sp>
+               <speaker>Jacke</speaker>
+               <p>Howe now my maſters can you not agree?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>I will deale well enoughe with him, if he durſt ſtande to his words.</p>
+            </sp>
+            <sp>
+               <speaker>Puritane</speaker>
+               <p>I will juſtifie any thing that I haue ſpo<g ref="char:EOLhyphen"/>ken, if not let me looſe my life, but to conclude, it is late, and becauſe we muſt departe, I will tel you one thing, and I woulde wiſh you to make vſe of it and heare what the Prophet <hi>Eſay</hi> ſaith cap. 59. 10 verſe. <hi>Their watchmen are all blinde, they haue noe knowledg, they are all dumbe doggs they cannot barke, they lie and fleepe, and delight in ſleeping. And theſe greedy dogges can neuer haue enough, all theſe ſhepheardes cannot vn<g ref="char:EOLhyphen"/>derſtand,</hi> and Zach arie 11.17. <hi>O Jdole ſhepherde that leaueth the flock, the ſword ſhall be vppon his arme, and vppon his right eye: his arme ſhall be cleane dryed vp, &amp; his right eye ſhall be vtterly darkened.</hi> And ſo fare yee well.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:10211:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
